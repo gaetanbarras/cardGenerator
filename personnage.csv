@@ -1,0 +1,480 @@
+# Personnage,Photo,Prénom,Nom,Village,Parti politique,Sexe,Age,Métier,Profession,Alibi,Alibi_EN,Indice physique,Personnage essentiel?,Trait de caractère
+1,photo/gee_me_002.jpg,Sophie,Bagnoud,Icogne,Le Centre,F,41,Mécanicien @ Carrosserie La Dellège SA,Mechanic @ Carrosserie La Dellège SA,"18h00 - 18h30: Finir son travail au garage
+18h36: Prendre le bus B353 à La Delége
+18h45: Sortir à l'arrêt Icogne, Village
+18h45 - 19h00: Petite bière à la maison
+19h00 - 19h45: Manger avec son mari, Bastien Bagnoud
+19h45 - 21h00: Netflix au lit, regarde la série Breaking Bad","6:00 p.m. - 6:30 p.m.: Finish work in the garage
+6:36 p.m.: Take bus B353 to La Delége
+6:45 p.m.: Exit at the Icogne, Village stop
+6:45 p.m. - 7:00 p.m.: Small beer at home
+7:00 p.m. - 7:45 p.m.: Eat with her husband, Bastien Bagnoud
+7:45 p.m. - 9:00 p.m.: Netflix in bed, watch Breaking Bad",Factures de service de voiture,X,
+2,photo/gee_me_003.jpg,Arthur,Bagnoud,Icogne,PLR,M,28,Étudiant et coureur,Student and runner,"18h00 - 18h30: Faire ses devoirs
+18h30 - 19h00: Manger
+19h00 - 20h30: Trail sur le Grand Bisse de Lens (Icogne - Chermignon), n'a croisé personne
+20h30 - 21h00: Douche, se préparer pour aller au lit","6:00 p.m. - 6:30 p.m.: Do your homework
+6:30 p.m. - 7:00 p.m.: Eat
+7:00 p.m. - 8:30 p.m.: Trail on the Grand Bisse de Lens (Icogne - Chermignon), did not meet anyone
+8:30 p.m. - 9:00 p.m.: Shower, get ready for bed",Carte des trails running,,
+3,photo/gee_me_009.jpg,Sarah,Bagnoud,Icogne,PS,F,29,Développeur en Informatique,IT Developer,"17h30: Fini le travail à PCProfi
+17h30 - 18h00: Se rendre à la gare, acheter un redbull et une pizza surgelé
+18h00: Prendre le bus B421 à l'arrêt Sierre, Gare
+18h26: Sortir à l'arrêt Lens, Centre d'Art
+18h26 - 18h40: attendre le prochain bus
+18h40: Prendre le bus B353 à Lens, Centre d'Art
+18h46: Sortir à l'arrêt Icogne, Prasserin
+18h50: Chauffer sa pizza
+19h00 - 03h00: Jouer à League Of Legends sur son PC","5:30 p.m.: Finished work at PCProfi
+5:30 p.m. - 6:00 p.m.: Go to the station, buy a redbull and a frozen pizza
+6:00 p.m.: Take the B421 bus to the Sierre, Gare stop
+6:26 p.m.: Exit at the Lens, Center d’Art stop
+6:26 p.m. - 6:40 p.m.: wait for the next bus
+6:40 p.m.: Take bus B353 to Lens, Art Center
+6:46 p.m.: Exit at the Icogne, Prasserin stop
+6:50 p.m.: Heat your pizza
+7:00 p.m. - 3:00 a.m.: Play League Of Legends on your PC",,,
+4,photo/gee_me_006.jpg,Bastien,Bagnoud,Icogne,Le Centre,M,38,Comptable,An accountant,"18h00 - 19h00: Préparer le repas
+19h00 - 19h45: Manger avec sa femme, Sophie Bagnoud
+19h45 - 21h00: Netflix au lit, regarde la série Breaking Bad","6:00 p.m. - 7:00 p.m.: Prepare the meal
+7:00 p.m. - 7:45 p.m.: Eat with his wife, Sophie Bagnoud
+7:45 p.m. - 9:00 p.m.: Netflix in bed, watch Breaking Bad",,,
+5,photo/gee_me_011.jpg,Anne-Marie,Bagnoud,Icogne,Le Centre,F,37,Gestionnaire de Commerce et présidente de l'Icogne Jazz,Business Manager and President of Icogne Jazz,18h00 - 21h00: Séance Icogne Jazz,6:00 p.m. - 9:00 p.m.: Icogne Jazz session,PV Assemblée Icogne Jazz,X,
+6,photo/gee_me_012.jpg,Luc,Bagnoud,Icogne,PS,M,24,Prof de ski,Ski teacher,"18h00 - 20h00: After-ski @ Zerodix avec Ophélie et Marielle
+20h00 - 23h00: Faire la fête au New Pub avec Ophélie et Marielle","6:00 p.m. - 8:00 p.m.: After-ski @ Zerodix with Ophélie and Marielle
+8:00 p.m. - 11:00 p.m.: Party at the New Pub with Ophélie and Marielle",,,
+7,photo/gee_me_015.jpg,Julius,Bagnoud,Icogne,PLR,M,49,Boulanger,Baker,"18h00 - 18h30: Travailler, vu Richard comme dernier client
+18h30 - 19h00: Fermeture, rangement
+19h00 - 19h15: Rentrer à Icogne
+19h15 - 20h00: Préparer le repas
+20h00 - 22h00: Regarder les derniers épisodes de ""Love Is Blind""","6:00 p.m. - 6:30 p.m.: Working, saw Richard as last client
+6:30 p.m. - 7:00 p.m.: Closing, storage
+7:00 p.m. - 7:15 p.m.: Return to Icogne
+7:15 p.m. - 8:00 p.m.: Prepare the meal
+8:00 p.m. - 10:00 p.m.: Watch the latest episodes of “Love Is Blind”",,,
+8,photo/gee_me_017.jpg,Marc,Bagnoud,Icogne,Le Centre,M,61,Chauffeur de bus B421,Bus driver B421,18h00 - 22h00: Travail,6:00 p.m. - 10:00 p.m.: Work,Carte chauffeur bus B421 (A),,
+9,photo/gee_me_014.jpg,Laetitia,Nanchen,Icogne,PLR,F,51,Fleuriste,Florist,"18h00 - 18h30: Travailler au magasin de fleurs, a vendu des fleurs à une seule personne, ne sait plus qui c'est
+18h30 - 18h45: Rentrer à la maison
+18h45 - 19h30: Préparer le repas
+19h30 - 20h15: Repas en famille
+20h15 - 20h45: Vaisselle
+20h45 - 22h00: Poursuivre l'écriture de son roman","6:00 p.m. - 6:30 p.m.: Worked at the flower shop, sold flowers to one person, doesn't know who it is anymore
+6:30 p.m. - 6:45 p.m.: Go home
+6:45 p.m. - 7:30 p.m.: Prepare the meal
+7:30 p.m. - 8:15 p.m.: Family meal
+8:15 p.m. - 8:45 p.m.: Dishes
+8:45 p.m. - 10:00 p.m.: Continue writing your novel",,,
+10,photo/gee_me_024.jpg,Stéphane,Nanchen,Icogne,Le Centre,M,47,"Boucher @ Boucherie Cotter, Lens","Butcher @ Boucherie Cotter, Lens","Ce personnage ment. Ainsi, il a un alibi faux, et la réalité
+ALIBI FAUX
+18h00 - 18h50: Travailler à la boucherie, heures supp
+18h50 - 20h00: Manger au Monument, Lens
+20h00 - 21h00: Balade digestive la nuit
+
+ALIBI VRAI
+18h00 - 18h15: Travailler à la boucherie, fermeture tôt
+18h15 - 18h30: Acheter des fleurs, les cache dans un sac et range dans sa voiture
+18h30 - 18h40: Boire un café rapidement au Monument
+18h40 - 18h45: Aller voir Charlotte Bonvin, Chemin de la Scie
+18h45 - 21h00: Rencontre avec Charlotte Bonvin, chez elle, Chemin de la Scie","This character is lying. So he has a false alibi, and the reality
+FALSE ALIBI
+6:00 p.m. - 6:50 p.m.: Work in the butchery, overtime
+6:50 p.m. - 8:00 p.m.: Eat at the Monument, Lens
+8:00 p.m. - 9:00 p.m.: Digestive walk at night
+
+TRUE ALIBI
+6:00 p.m. - 6:15 p.m.: Working at the butcher's shop, closing early
+6:15 p.m. - 6:30 p.m.: Buy flowers, hide them in a bag and put them in your car
+6:30 p.m. - 6:40 p.m.: Have a quick coffee at the Monument
+6:40 p.m. - 6:45 p.m.: Go see Charlotte Bonvin, Chemin de la Scie
+6:45 p.m. - 9:00 p.m.: Meeting with Charlotte Bonvin, at her home, Chemin de la Scie",,MENTEUR - Adultère,
+11,photo/gee_me_018.jpg,Anne-Laure,Nanchen,Icogne,PS,F,45,Présidente d'Icogne,President of Icogne,"20h00 - 21h00: Promener son Akita, Icogne - Lens aller-retour via le Chemin de la Messe en croisant uniquement 2 fois Béatrice qui fait le chemin inverse","8:00 p.m. - 9:00 p.m.: Walking your Akita, Icogne - Lens round trip via the Chemin de la Messe, only meeting Béatrice twice who goes the opposite way",,,
+12,photo/gee_me_026.jpg,David,Nanchen,Icogne,Le Centre,M,25,Développeur en Informatique,IT Developer,"18h00 - 18h30: Travail à Sion, caisse de compensation
+18h30 - 18h50: Se rendre à Sierre
+18h50 - 19h00: Se parquer au Technopôle
+19h00 - 20h00: Conférence ""La protection des données à l'ère de l'IA""
+20h00 - 20h30: Networking
+20h30 - 21h00: McDonalds 
+21h00 - 21h30: Rentrer à Icogne ","6:00 p.m. - 6:30 p.m.: Work in Sion, compensation fund
+6:30 p.m. - 6:50 p.m.: Go to Sierre
+6:50 p.m. - 7:00 p.m.: Park at the Technopôle
+7:00 p.m. - 8:00 p.m.: Conference “Data protection in the age of AI”
+8:00 p.m. - 8:30 p.m.: Networking
+8:30 p.m. - 9:00 p.m.: McDonalds 
+9:00 p.m. - 9:30 p.m.: Return to Icogne ",,,
+13,photo/gee_me_021.jpg,Isabelle,Nanchen,Icogne,PS,F,40,Fermière @ Les Poules Icogne (oeufs),Farmer @ Les Poules Icogne (eggs),"18h00 - 19h00: Travail à la Ferme
+19h00 - 19h20: Aller chercher les chevaux
+19h20 - 20h20: Promenade de nuit avec ses 2 chevaux (route de la ferme)
+20h20 - 20h50: Lasagne surgelé à la maison
+20h50 - 21h30: Lecture","6:00 p.m. - 7:00 p.m.: Farm work
+7:00 p.m. - 7:20 p.m.: Pick up the horses
+7:20 p.m. - 8:20 p.m.: Night walk with your 2 horses (farm road)
+8:20 p.m. - 8:50 p.m.: Frozen lasagna at home
+8:50 p.m. - 9:30 p.m.: Reading",,,
+14,photo/gee_me_030.jpg,Tristan,Nanchen,Icogne,PLR,M,26,Stay-at-home dad,Stay-at-home dad,"Ce personnage ment. Ainsi, il a un alibi faux, et la réalité
+ALIBI FAUX
+18h00 - 18h30: Donner le biberon au bébé
+18h30 - 19h00: Doucher le bébé
+19h00 - 20h00: Ménage
+20h00 - 21h00: Netflix
+
+ALIBI VRAI
+18h00 - 19h15: Coucher le bébé très tôt
+19h15 - 19h30: Se rendre au Monument
+19h30 - 22h00: Boire des verres au monument","This character is lying. So he has a false alibi, and the reality
+FALSE ALIBI
+6:00 p.m. - 6:30 p.m.: Give the baby a bottle
+6:30 p.m. - 7:00 p.m.: Shower the baby
+7:00 p.m. - 8:00 p.m.: Housekeeping
+8:00 p.m. - 9:00 p.m.: Netflix
+
+TRUE ALIBI
+6:00 p.m. - 7:15 p.m.: Put the baby to bed very early
+7:15 p.m. - 7:30 p.m.: Go to the Monument
+7:30 p.m. - 10:00 p.m.: Drinks at the monument",,"MENTEUR - Devait garder les enfants, mais il a été boire des verres ",Mari de Danielle Nanchen
+15,photo/gee_me_022.jpg,Danielle,Nanchen,Icogne,PLR,F,37,Comptable + présidente du comité de la course du Christ-Roi,Accountant + president of the Christ the King race committee,"18h00 - 20h00: Séance clôture des comptes, administration Hôtel Elite
+20h00 - 21h00: Apéro à l'Hôtel Elite, plateau valaisan","6:00 p.m. - 8:00 p.m.: Account closing session, Elite Hotel administration
+8:00 p.m. - 9:00 p.m.: Aperitif at the Elite Hotel, Valais plateau",Statuts de l'association de la Course,,Femme de Tristan Nanchen
+16,photo/gee_me_034.jpg,Gaëtan,Nanchen,Icogne,Le Centre,M,34,Chauffeur de bus B421,Bus driver B421,18h00 - 22h00: Travail,6:00 p.m. - 10:00 p.m.: Work,Carte chauffeur bus B421 (B),,
+17,photo/gee_me_028.jpg,Catherine,Emery,Lens,Le Centre,F,33,"Serveuse au Monument, Lens","Waitress at Monument, Lens","18h00 - 22h00: Travailler au Monument
+Liste des événements notables:
+18h51: En débarassant une table, à trouver un ticket de caisse pour des fleurs
+Soirée très calme, seulement Tristan Nanchen pendant un long moment au bar, quasiment la totalité du shift (dès 19h30), ainsi que Quentin Bonvin qui est venu boire un café et lire le journal de 18h00 à 20h00. Aussi le boucher du village qui est venu rapidement pour un café en début de shift.
+Une seule tablée d'un couple qui mange de 18h30 à 20h30 environ. 
+A partir de 20h30, seulement Tristan dans tout le restaurant. Fermeture à 22h00","6:00 p.m. - 10:00 p.m.: Working at the Monument
+List of notable events:
+6:51 p.m.: While clearing a table, finding a receipt for flowers
+Very quiet evening, only Tristan Nanchen for a long time at the bar, almost the entire shift (from 7:30 p.m.), as well as Quentin Bonvin who came to drink coffee and read the newspaper from 6:00 p.m. to 8:00 p.m. Also the village butcher who came quickly for a coffee at the start of the shift.
+A single table of a couple eating from approximately 6:30 p.m. to 8:30 p.m. 
+From 8:30 p.m., only Tristan in the entire restaurant. Closing at 10:00 p.m.","Ticket de caisse 40.- pour un bouquet de rose, trouvé sur une table à 20h","A vu Tristan Nanchen toute l'aprem
+boire des verres",
+18,photo/gee_me_042.jpg,Richard,Emery,Lens,UDC,M,74,Retraité,Retirement,"17h50 - 18h10: Café à l'Union
+18h10 - 18h15: Aller à la Poste, poser une lettre
+18h15 - 18h25: Se rendre à Taillens acheter un pain, croiser le boucher qui ne lui a pas dit salut
+18h25 - 18h40: Rentrer à la maison, croiser cet imbécile de socialiste qui attendait le bus
+18h40 - 19h30: Manger des tartines
+19h30 - 20h00: Télé-Journal de 19:30
+20h00 - 21h00: Lecture d'un livre de Joël Dicker","5:50 p.m. - 6:10 p.m.: Coffee at the Union
+6:10 p.m. - 6:15 p.m.: Go to the Post Office, post a letter
+6:15 p.m. - 6:25 p.m.: Go to Taillens to buy a loaf of bread, meet the butcher who didn't say hi
+6:25 p.m. - 6:40 p.m.: Coming home, meeting this stupid socialist who was waiting for the bus
+6:40 p.m. - 7:30 p.m.: Eat toast
+7:30 p.m. - 8:00 p.m.: Tele-News from 7:30 p.m.
+8:00 p.m. - 9:00 p.m.: Reading a book by Joël Dicker",,,
+19,photo/gee_me_031.jpg,Martine,Emery,Lens,PLR,F,27,"Propriétaire et gestionnaire du magasin ""Chez Martine""",Owner and manager of the store “Chez Martine”,"18h00 - 18h30: Travail au magasin, vu une monitrice de ski en rouge acheter du vin
+18h30 - 19h00: Fermeture et rangement
+19h00 - 19h05: Rentrer à la maison
+19h05 - 19h35: Préparer le repas
+19h35 - 20h00: Manger devant le téléjournal
+20h00 - 21h00: Lecture","6:00 p.m. - 6:30 p.m.: Working at the store, saw a ski instructor in red buying wine
+6:30 p.m. - 7:00 p.m.: Closing and storage
+7:00 p.m. - 7:05 p.m.: Go home
+7:05 p.m. - 7:35 p.m.: Prepare the meal
+7:35 p.m. - 8:00 p.m.: Eat in front of the news
+8:00 p.m. - 9:00 p.m.: Reading",,,
+20,photo/gee_me_047.jpg,Stéphane,Emery,Lens,Le Centre,M,57,Vigneron,Winemaker,"17h15: Fin du travail à la Cave Mont Bonvin
+17h15 - 17h45: Se rendre à l'arrêt de bus ""Chermignon d'en Haut"" à pied
+17h48: Monter dans le bus B421 en direction de Sierre
+17h52: Sortie à l'arrêt ""Lens, Centre d'Art""
+18h00 - 19h30: Apéro au nouveau restaurant ""Le Vieux Chalet""
+Choquer et déçu du prix trop élevé de la raclette, 8 CHF!
+19h30 - 19h40: Rentrer à la maison
+19h40 - 22h00: Vu ""La Grande Vadrouille"" sur RTS 2","5:15 p.m.: End of work at Cave Mont Bonvin
+5:15 p.m. - 5:45 p.m.: Go to the “Chermignon d’en Haut” bus stop on foot
+5:48 p.m.: Get on the B421 bus towards Sierre
+5:52 p.m.: Exit at the “Lens, Center d’Art” stop
+6:00 p.m. - 7:30 p.m.: Aperitif at the new restaurant “Le Vieux Chalet”
+Shocked and disappointed by the too high price of the raclette, 8 CHF!
+7:30 p.m. - 7:40 p.m.: Go home
+7:40 p.m. - 10:00 p.m.: Seen “La Grande Vadrouille” on RTS 2",,,
+21,photo/gee_me_032.jpg,Hélène,Emery,Lens,MDC,F,63,Apiculteur,Beekeeper,"16h00 - 19h30: Lens - Carouge (bouchons)
+19h30: Arrivée au Théatre de Carouge
+20h00: Début du spectacle ""Le Dindon""
+23h00: Dormi sur place au ibis Styles","4:00 p.m. - 7:30 p.m.: Lens - Carouge (traffic jams)
+7:30 p.m.: Arrival at the Théatre de Carouge
+8:00 p.m.: Start of the show “Le Dindon”
+11:00 p.m.: Slept on site at the ibis Styles",,,
+22,photo/gee_me_051.jpg,Jean-Luc,Emery,Lens,PLR,M,41,Croc mort,Dead fang,"ALIBI FAUX
+18h00 - 19h30: Enterrement Marc Savioz, Sierre
+19h30 - 20h00: Rentrer à Lens
+20h00 - 21h00: Se faire livrer des sushis
+21h00 - 21h30: Lecture
+
+ALIBI VRAI
+17h00 - 18h30: Enterrement Marc Savioz, Sierre
+18h30 - 19h00: Sierre - Moubra
+19h00 - 19h05: Rencontre avec client 1 @ Moubra, vente de cannabis
+19h10 - 19h15: Rencontre avec client 2 @ Moubra, vente de cannabis
+19h15 - 19h30: Rentrer à Lens
+19h30 - 20h30: Se faire livrer des sushis
+20h30 - 21h00: Lecture","FALSE ALIBI
+6:00 p.m. - 7:30 p.m.: Funeral of Marc Savioz, Sierre
+7:30 p.m. - 8:00 p.m.: Return to Lens
+8:00 p.m. - 9:00 p.m.: Get sushi delivered
+9:00 p.m. - 9:30 p.m.: Reading
+
+TRUE ALIBI
+5:00 p.m. - 6:30 p.m.: Funeral of Marc Savioz, Sierre
+6:30 p.m. - 7:00 p.m.: Sierre - Moubra
+7:00 p.m. - 7:05 p.m.: Meeting with client 1 @ Moubra, cannabis sale
+7:10 p.m. - 7:15 p.m.: Meeting with client 2 @ Moubra, sale of cannabis
+7:15 p.m. - 7:30 p.m.: Return to Lens
+7:30 p.m. - 8:30 p.m.: Get sushi delivered
+8:30 p.m. - 9:00 p.m.: Reading",,MENTEUR - Dealer,
+23,photo/gee_me_037.jpg,Jacqueline,Emery,Lens,PS,F,52,Vigneron,Winemaker,"18h00 - 18h30: Visite expo Opale
+18h45 - 20h30: Date night au Monument avec son mari, Christian Emery
+20h30 - 20h45: Rentrer à la maison
+20h45 - 22h45: Vu Nosferatu au lit","6:00 p.m. - 6:30 p.m.: Opal exhibition visit
+6:45 p.m. - 8:30 p.m.: Date night at the Monument with her husband, Christian Emery
+8:30 p.m. - 8:45 p.m.: Go home
+8:45 p.m. - 10:45 p.m.: Seen Nosferatu in bed",,,
+24,photo/gee_me_056.jpg,Christian,Emery,Lens,Le Centre,M,54,Professeur,Teacher,"18h00 - 18h20: Fin du travail au Régent International School
+18h33: Prendre le train B353 à Crans-Montana, Zier-Régent
+18h42: Sortie à l'arrêt Lens, Poste
+18h45 - 20h30: Date night au Monument avec sa femme, Jacqueline Emery
+20h30 - 20h45: Rentrer à la maison
+20h45 - 22h45: Vu Nosferatu au lit","6:00 p.m. - 6:20 p.m.: End of work at Régent International School
+6:33 p.m.: Take train B353 to Crans-Montana, Zier-Régent
+6:42 p.m.: Exit at the Lens, Poste stop
+6:45 p.m. - 8:30 p.m.: Date night at the Monument with his wife, Jacqueline Emery
+8:30 p.m. - 8:45 p.m.: Go home
+8:45 p.m. - 10:45 p.m.: Seen Nosferatu in bed",,,
+25,photo/gee_me_041.jpg,Carla,Bonvin,Lens,PS,F,40,"Retraité, membre du board de l'Hôtel Elite","Retired, member of the Elite Hotel board","18h00 - 20h00: Séance clôture des comptes, administration Hôtel Elite
+20h00 - 21h00: Apéro à l'Hôtel Elite, plateau valaisan","6:00 p.m. - 8:00 p.m.: Account closing session, Elite Hotel administration
+8:00 p.m. - 9:00 p.m.: Aperitif at the Elite Hotel, Valais plateau",,,
+26,photo/gee_me_059.jpg,Quentin,Bonvin,Lens,PLR,M,30,Agent Immobilier,Real estate agent,"18h00 - 20h00: Journal + café au Monument
+20h00 - 20h05: Rentrer à la maison
+20h05 - 21h00: Manger les restes de la veille à la maison","6:00 p.m. - 8:00 p.m.: Newspaper + coffee at the Monument
+8:00 p.m. - 8:05 p.m.: Go home
+8:05 p.m. - 9:00 p.m.: Eat leftovers from the day before at home",,,
+27,photo/gee_me_045.jpg,Béatrice,Bonvin,Lens,Le Centre,F,43,Photographe,Photographer,"20h00 - 21h00: Promener son Husky, Lens - Icogne aller-retour via le Chemin de la Messe en croisant uniquement 2 fois Anne-Laure qui fait le chemin inverse","8:00 p.m. - 9:00 p.m.: Walking your Husky, Lens - Icogne round trip via the Chemin de la Messe, only meeting Anne-Laure twice who goes the opposite way",,,
+28,photo/gee_me_061.jpg,Xavier,Bonvin,Lens,UDC,M,29,Agent à l'Office de Tourisme de Crans-Montana,Agent at the Crans-Montana Tourist Office,"ALIBI FAUX
+18h00 - 18h30: Travail
+18h30 - 19h20: Boire des verres afterwork @ Beach Club
+19h20 - 19h30: Rentrer à la maison, Chem. de Crèhalé
+19h30 - 20h00: Ramen à la maison
+20h00 - 22h00: PS5, Elder Scrolls
+
+ALIBI VRAI
+18h00 - 18h30: Travail
+18h30 - 19h05: Boire des verres afterwork @ Beach Club
+19h10 - 19h15: Rencontre avec Jean-Luc, achat de cannabis
+19h15 - 19h20: Moubra - Station-shop Jubin, acheter des ramens
+19h20 - 19h30: Rentrer à la maison, Chem. de Crèhalé
+19h30 - 20h00: Ramen à la maison
+20h00 - 22h00: PS5, Elder Scrolls","FALSE ALIBI
+6:00 p.m. - 6:30 p.m.: Work
+6:30 p.m. - 7:20 p.m.: Afterwork drinks @ Beach Club
+7:20 p.m. - 7:30 p.m.: Go home, Chem. of Crèhalé
+7:30 p.m. - 8:00 p.m.: Ramen at home
+8:00 p.m. - 10:00 p.m.: PS5, Elder Scrolls
+
+TRUE ALIBI
+6:00 p.m. - 6:30 p.m.: Work
+6:30 p.m. - 7:05 p.m.: Afterwork drinks @ Beach Club
+7:10 p.m. - 7:15 p.m.: Meeting with Jean-Luc, purchase of cannabis
+7:15 p.m. - 7:20 p.m.: Moubra - Jubin station-shop, buy ramen
+7:20 p.m. - 7:30 p.m.: Go home, Chem. of Crèhalé
+7:30 p.m. - 8:00 p.m.: Ramen at home
+8:00 p.m. - 10:00 p.m.: PS5, Elder Scrolls",,MENTEUR - Consommateur,
+29,photo/gee_me_046.jpg,Charlotte,Bonvin,Lens,PLR,F,38,Prof de ski,Ski teacher,"Ce personnage ment. Ainsi, il a un alibi faux, et la réalité
+ALIBI FAUX
+18h00 - 20h00: After-ski au Zerodix
+20h00 - 21h00: Rentrer à la maison, chemin de la Scie, fait le ménage
+
+ALIBI VRAI
+18h00 - 18h15: Acheter une bouteille de rouge chez Martine
+18h15 - 18h45: Rentrer à la maison, chemin de la Scie, fait le ménage
+18h45 - 21h00: Rencontre avec Stéphane Nanchen, à la maison","This character is lying. So he has a false alibi, and the reality
+FALSE ALIBI
+6:00 p.m. - 8:00 p.m.: After-ski at Zerodix
+8:00 p.m. - 9:00 p.m.: Come home, Chemin de la Scie, do the cleaning
+
+TRUE ALIBI
+6:00 p.m. - 6:15 p.m.: Buy a bottle of red from Martine
+6:15 p.m. - 6:45 p.m.: Come home, Chemin de la Scie, do the cleaning
+6:45 p.m. - 9:00 p.m.: Meeting with Stéphane Nanchen, at home",,MENTEUSE - Adultère,
+30,photo/gee_me_064.jpg,Zachary,Bonvin,Lens,PS,M,65,"Retraité, membre du board de l'Hôtel Elite","Retired, member of the Elite Hotel board","18h00 - 20h00: Séance clôture des comptes, administration Hôtel Elite
+20h00 - 21h00: Apéro à l'Hôtel Elite, plateau valaisan","6:00 p.m. - 8:00 p.m.: Account closing session, Elite Hotel administration
+8:00 p.m. - 9:00 p.m.: Aperitif at the Elite Hotel, Valais plateau",,,Mari de Delphine
+31,photo/gee_me_049.jpg,Delphine,Bonvin,Lens,Le Centre,F,31,"Banquier, membre du board de l'Hôtel Elite","Banker, member of the board of the Elite Hotel","18h00 - 20h00: Séance clôture des comptes, administration Hôtel Elite
+20h00 - 21h00: Apéro à l'Hôtel Elite, plateau valaisan","6:00 p.m. - 8:00 p.m.: Account closing session, Elite Hotel administration
+8:00 p.m. - 9:00 p.m.: Aperitif at the Elite Hotel, Valais plateau",,,Femme de Zachary
+32,photo/gee_me_071.jpg,Théodore,Bonvin,Lens,PS,M,41,"Comptable + trompettiste à l'écho des bois, Crans-Montana","Accountant + trumpeter at the echo of the woods, Crans-Montana","Mari de Charlotte Bonvin
+18h00 - 21h00: AG, Echo des Bois Crans Montana","Husband of Charlotte Bonvin
+6:00 p.m. - 9:00 p.m.: AGM, Echo des Bois Crans Montana",,,
+33,photo/gee_me_054.jpg,Esther,Rey,Crans-Montana,PLR,F,28,Journaliste,Journalist,"18h00 - 19h00: Conférence de presse Alaïa Chalet
+19h00 - 19h30: Apéro Alaïa Chalet
+19h30 - 19h45: Rentrer à la maison
+19h45 - 20h15: Faire une salade
+20h15 - 20h30: Yoga + méditation
+20h30 - 21h00: TikTok au lit","6:00 p.m. - 7:00 p.m.: Alaïa Chalet press conference
+7:00 p.m. - 7:30 p.m.: Apéro Alaïa Chalet
+7:30 p.m. - 7:45 p.m.: Go home
+7:45 p.m. - 8:15 p.m.: Make a salad
+8:15 p.m. - 8:30 p.m.: Yoga + meditation
+8:30 p.m. - 9:00 p.m.: TikTok in bed",Gazette de Lens,X,
+34,photo/gee_me_075.jpg,Gérard,Rey,Crans-Montana,Le Centre,M,83,Retraité,Retirement,"17h40: Prendre le bus B421 à Crans-Montana, Vernaziet
+17h47: Arrivée à Ycoor
+17h50 - 18h25: Faire les courses à la Coop
+18h30: Prendre le bus B421 à Crans-Montana, Ycoor
+18h37: Sortie à Crans-Montana, Vernaziet
+18h45 - 19h30: Préparer le repas
+19h30 - 21h00: Repas avec les petits enfants et les enfants
+21h00 - 21h30: Vaisselle
+21h30: Au lit","5:40 p.m.: Take bus B421 to Crans-Montana, Vernaziet
+5:47 p.m.: Arrival in Ycoor
+5:50 p.m. - 6:25 p.m.: Shopping at the Coop
+6:30 p.m.: Take bus B421 to Crans-Montana, Ycoor
+6:37 p.m.: Exit to Crans-Montana, Vernaziet
+6:45 p.m. - 7:30 p.m.: Prepare the meal
+7:30 p.m. - 9:00 p.m.: Meal with grandchildren and children
+9:00 p.m. - 9:30 p.m.: Dishes
+9:30 p.m.: In bed",,,
+35,photo/gee_me_055.jpg,Francine,Rey,Crans-Montana,PS,F,44,Employée à la Station-Service Jubin,Employee at the Jubin Service Station,"18h00 - 19h15: Travail
+19h15 - 19h20: Xavier est venu acheter des nouilles instantanées, il avait l'air très fatigué
+19h20 - 19h55: Travail
+19h55 - 20h00: Un client visiblement ivre qui a essayé de voler un Tribolo
+20h00 - 22h00: Travail et fermeture","6:00 p.m. - 7:15 p.m.: Work
+7:15 p.m. - 7:20 p.m.: Xavier came to buy instant noodles, he looked very tired
+7:20 p.m. - 7:55 p.m.: Work
+7:55 p.m. - 8:00 p.m.: A visibly drunk customer who tried to steal a Tribolo
+8:00 p.m. - 10:00 p.m.: Work and closing",,,
+36,photo/gee_me_077.jpg,Gabriel,Rey,Crans-Montana,MDC,M,63,Infimier,Nurse,Travail à l'hôpital de Sion - 17h00 à 02h00,Work at Sion hospital - 5:00 p.m. to 2:00 a.m.,,,
+37,photo/gee_me_079.jpg,Aurélius,Rey,Crans-Montana,PLR,M,28,Policier,Policeman,En vacances aux Maldives avec son copain Hector,On vacation in the Maldives with her boyfriend Hector,,,
+38,photo/gee_me_081.jpg,Hector,Rey,Crans-Montana,Le Centre,M,33,Policier + secrétaire du comité de la course du Christ-Roi,Police officer + secretary of the Christ the King race committee,En vacances aux Maldives avec son copain Aurélius,On vacation in the Maldives with her boyfriend Aurélius,Résultat des 3 dernières années à la course,X,
+39,photo/gee_me_057.jpg,Martine,Rey,Crans-Montana,MDC,F,64,Directrice de l'Office du Tourisme de Crans-Montana,Director of the Crans-Montana Tourist Office,"18h00 - 18h30: Travail
+18h30 - 19h20: Boire des verres afterwork @ Beach Club, Xavier est parti avant tout le monde, sans payer sa tournée!
+19h50 - 20h00: Rentrer à la maison
+20h00 - 21h00: Manger des pâtes pesto devant Orange Is The New Black","6:00 p.m. - 6:30 p.m.: Work
+6:30 p.m. - 7:20 p.m.: Drinking afterwork drinks @ Beach Club, Xavier left before everyone else, without paying for his round!
+7:50 p.m. - 8:00 p.m.: Go home
+8:00 p.m. - 9:00 p.m.: Eat pesto pasta in front of Orange Is The New Black",,,
+40,photo/gee_me_084.jpg,Ulrich,Rey,Lens,PLR,M,57,Président de Lens,President of Lens,"17h00: Arrivée à la salle d'escalade du Crans Montana Sports Center
+17h00 - 19h00: Grimpe
+19h00 - 19h10: Récupérer sa voiture au parking de la Moubra, odeur marqué de cannabis
+19h10 - 19h20: Retour à la maison
+19h20 - 19h50: Préparer le dîner
+19h50 - 20h30: Repas devant 2 épisodes de The Office
+20h30 - 21h30: Lecture","5:00 p.m.: Arrival at the Crans Montana Sports Center climbing gym
+5:00 p.m. - 7:00 p.m.: Climbing
+7:00 p.m. - 7:10 p.m.: Pick up your car at the Moubra parking lot, strong smell of cannabis
+7:10 p.m. - 7:20 p.m.: Return home
+7:20 p.m. - 7:50 p.m.: Prepare dinner
+7:50 p.m. - 8:30 p.m.: Meal in front of 2 episodes of The Office
+8:30 p.m. - 9:30 p.m.: Reading",PV de l'assemblée du conseil communal,X,
+41,photo/gee_me_063.jpg,Nicolas,Clivaz,Crans-Montana,Le Centre,F,57,"Plombier + trombonniste à l'écho des bois, Crans-Montana","Plumber + trombonist at the echo of the woods, Crans-Montana","18h00 - 21h00: AG, Echo des Bois Crans Montana","6:00 p.m. - 9:00 p.m.: AGM, Echo des Bois Crans Montana",,,
+42,photo/gee_me_088.jpg,Oscar,Clivaz,Crans-Montana,Le Centre,M,67,Retraité,Retirement,"18h00 - 19h30: Faire les devoirs avec son petit fils, Mattéo, à Sierre
+19h30 - 20h00: Rentrer à la maison (Crans), supris de voir quelqu'un en jogging sur la route de Chermignon
+20h00 - 20h05: Se changer et se préparer
+20h10 - 21h30: Repas au Molino avec Pascaline, sa femme","6:00 p.m. - 7:30 p.m.: Doing homework with his grandson, Mattéo, in Sierre
+7:30 p.m. - 8:00 p.m.: Return home (Crans), surprised to see someone jogging on the road to Chermignon
+8:00 p.m. - 8:05 p.m.: Change and get ready
+8:10 p.m. - 9:30 p.m.: Meal at Molino with Pascaline, his wife",,,
+43,photo/gee_me_066.jpg,Ophélie,Clivaz,Crans-Montana,PS,F,34,Prof de ski,Ski teacher,"18h00 - 20h00: After-ski @ Zerodix avec Luc et Marielle
+20h00 - 23h00: Faire la fête au New Pub avec Luc et Marielle","6:00 p.m. - 8:00 p.m.: After-ski @ Zerodix with Luc and Marielle
+8:00 p.m. - 11:00 p.m.: Party at the New Pub with Luc and Marielle",,,
+44,photo/gee_me_090.jpg,Nicolas,Clivaz,Crans-Montana,PLR,M,51,"Ophtalmologue + Percussioniste à l'écho des bois, Crans-Montana","Ophthalmologist + Percussionist at the echo of the woods, Crans-Montana","18h00 - 21h00: AG, Echo des Bois Crans Montana","6:00 p.m. - 9:00 p.m.: AGM, Echo des Bois Crans Montana",,,
+45,photo/gee_me_069.jpg,Pascaline,Clivaz,Crans-Montana,PS,F,32,Ingénieur civil,Civil engineer,"18h00 - 20h00: Heures supp au bureau
+20h00 - 20h05: Se rendre au Molino
+20h05 - 21h30: Repas au Molino avec son mari, Oscar","6:00 p.m. - 8:00 p.m.: Overtime in the office
+8:00 p.m. - 8:05 p.m.: Go to Molino
+8:05 p.m. - 9:30 p.m.: Meal at Molino with her husband, Oscar",,,
+46,photo/gee_me_092.jpg,Sébastien,Clivaz,Crans-Montana,PLR,M,51,Responsable événementiel Alaïa,Event manager Alaïa,"18h00 - 19h00: Conférence de presse Alaïa Chalet
+19h00 - 20h00: Apéro Alaïa Chalet
+20h00 - 21h00: Rangement conférence de presse","6:00 p.m. - 7:00 p.m.: Alaïa Chalet press conference
+7:00 p.m. - 8:00 p.m.: Apéro Alaïa Chalet
+8:00 p.m. - 9:00 p.m.: Tidying up press conference",,,
+47,photo/gee_me_070.jpg,Théodora,Clivaz,Crans-Montana,Le Centre,F,27,"Éleveur de vaches + Flûtiste à l'écho des bois, Crans-Montana","Cow breeder + Flutist at the echo of the woods, Crans-Montana","18h00 - 21h00: AG, Echo des Bois Crans Montana","6:00 p.m. - 9:00 p.m.: AGM, Echo des Bois Crans Montana",Suite d'échange de messages sur WhatsApp,X,
+48,photo/gee_me_094.jpg,Michaël,Clivaz,Crans-Montana,MDC,M,15,"Apprenti ébéniste, joue au FC Montana","Apprentice cabinetmaker, plays for FC Montana","18h50 - 18h55: Venu à pied depuis chemin des coccinelles. Vois une très belle Bentley noir avec des plaques autrichienne parqué à côté d'un corbillard.
+18h55 - 19h00: Se rendre au terrain de foot
+19h00 - 19h30: Vestiaire
+19h30 - 21h00: Entraînement FC Montana","6:50 p.m. - 6:55 p.m.: Come on foot from Chemin des Coccinelles. See a very nice black Bentley with Austrian plates parked next to a hearse.
+6:55 p.m. - 7:00 p.m.: Go to the football field
+7:00 p.m. - 7:30 p.m.: Locker room
+7:30 p.m. - 9:00 p.m.: FC Montana training",,,
+49,photo/gee_me_072.jpg,Ylenia,Barras,Chermignon,PLR,F,45,Chauffeur de bus B353,Bus driver B353,18h00 - 22h00: Travail,6:00 p.m. - 10:00 p.m.: Work,Carte chauffeur bus B353 (C),X,
+50,photo/gee_me_001.jpg,Bernard,Barras,Chermignon,Le Centre,M,60,Président de Chermignon,President of Chermignon,"18h00 - 19h00: Séance de conseil communal
+19h00 - 21h00: Repas au Relais Fleuri ","6:00 p.m. - 7:00 p.m.: Municipal council session
+7:00 p.m. - 9:00 p.m.: Meal at Relais Fleuri ",,,
+51,photo/gee_me_005.jpg,Ludovic,Barras,Chermignon,PS,M,48,Pharmacien,Pharmacist,"18h00 - 18h30: Travail (Lens)
+18h30 - 19h00: Se rendre à Sion
+19h00 - 20h00: Cours de kickboxing
+20h00 - 20h30: Revenir à Chermignon
+20h30 - 21h00: Poulet + broccoli","6:00 p.m. - 6:30 p.m.: Work (Lens)
+6:30 p.m. - 7:00 p.m.: Go to Sion
+7:00 p.m. - 8:00 p.m.: Kickboxing class
+8:00 p.m. - 8:30 p.m.: Return to Chermignon
+8:30 p.m. - 9:00 p.m.: Chicken + broccoli",,,
+52,photo/gee_me_007.jpg,François,Barras,Chermignon,PS,M,37,"Secrétaire communale, membre du groupement sportif de Chermignon","Municipal secretary, member of the Chermignon sports group","ALIBI FAUX
+18h00 - 18h20: parquer voiture devant chez Martine
+18h26: Prend le bus B421 à Lens, Centre d'Art
+18h31: Sort à l'arrêt Chermignon, d'en-Haut
+18h35 - 19h30: diner
+19h30 - 20h50: Trail via le Grand-Bisse de Lens, passer par Icogne chemin de la Messe pour rejoindre Lens
+20h50 - 21h10: rentrer en voiture
+
+ALIBI VRAI
+18h00 - 18h20: parquer voiture devant chez Martine
+18h26: Prend le bus B421 à Lens, Centre d'Art
+18h31: Sort à l'arrêt Chermignon, d'en-Haut
+18h35 - 19h30: diner
+19h30 - 20h30: Chermignon - Lens à pied via route Cantonale, pas par le. bisse
+20h30 - 20h40: Voler la statue
+20h40 - 21h00: Rentrer en voiture","FALSE ALIBI
+6:00 p.m. - 6:20 p.m.: park your car in front of Martine’s
+6:26 p.m.: Take bus B421 to Lens, Art Center
+6:31 p.m.: Exit at the Chermignon stop, from above
+6:35 p.m. - 7:30 p.m.: dinner
+7:30 p.m. - 8:50 p.m.: Trail via the Grand-Bisse de Lens, go through Icogne chemin de la Messe to reach Lens
+8:50 p.m. - 9:10 p.m.: return by car
+
+TRUE ALIBI
+6:00 p.m. - 6:20 p.m.: park your car in front of Martine’s
+6:26 p.m.: Take bus B421 to Lens, Art Center
+6:31 p.m.: Exit at the Chermignon stop, from above
+6:35 p.m. - 7:30 p.m.: dinner
+7:30 p.m. - 8:30 p.m.: Chermignon - Lens on foot via Cantonal road, not by the. bisse
+8:30 p.m. - 8:40 p.m.: Steal the statue
+8:40 p.m. - 9:00 p.m.: Return by car",,VOLEUR + MENTEUR,
+53,photo/gee_me_074.jpg,Annabelle,Barras,Chermignon,PLR,F,38,Maçon,Mason,"Travail sur le chantier de Nant de Drance, dors sur place ","Work on the Nant de Drance construction site, sleep on site ",,,
+54,photo/gee_me_008.jpg,Jean,Barras,Chermignon,Le Centre,M,32,"Psychiatre + Saxophoniste à l'écho des bois, Crans-Montana","Psychiatrist + Saxophonist at l’écho des bois, Crans-Montana","18h00 - 21h00: AG, Echo des Bois Crans Montana","6:00 p.m. - 9:00 p.m.: AGM, Echo des Bois Crans Montana",,,
+55,photo/gee_me_082.jpg,Brigitte,Barras,Chermignon,MDC,F,62,Géomètre,Surveyor,En vacances à Europapark avec les petits enfants,On vacation at Europapark with the little children,,,
+56,photo/gee_me_010.jpg,Igor,Barras,Chermignon,PLR,M,54,Réceptionniste du Crans Ambassador,Crans Ambassador receptionist,18h00 - 22h00: Travail,6:00 p.m. - 10:00 p.m.: Work,,,
+57,photo/gee_me_095.jpg,Marielle,Berclaz,Randogne,PLR,F,29,Prof de ski,Ski teacher,"18h00 - 20h00: After-ski @ Zerodix avec Ophélie et Luc
+20h00 - 23h00: Faire la fête au New Pub avec Ophélie et Luc","6:00 p.m. - 8:00 p.m.: After-ski @ Zerodix with Ophélie and Luc
+8:00 p.m. - 11:00 p.m.: Party at the New Pub with Ophélie and Luc",,,
+58,photo/gee_me_013.jpg,Valentin,Von Habsbourg,Randogne,PLR,M,59,Directeur de l'Ecole Les Roches,Director of Les Roches School,"ALIBI FAUX
+18h55 - 19h05: Rentrer à la maison, Cascades d'Eden 2
+19h10 - 19h30: Poser ses affaires, décompresser
+19h30 - 20h00: Dîner en famille
+20h00 - 20h30: Vaisselle
+20h30 - 21h00: Se rendre à Sierre
+21h00 - 23h00: Répétition avec son groupe de musique ""The Blues Warriors""
+
+ALIBI VRAI
+18h45 - 18h55: Parti du travail, s'est rendu à la Moubra
+19h00 - 19h05: Rencontre avec Jean-Luc et achat de cannabis
+19h05 - 19h10: Rentrer à la maison
+19h10 - 19h30: Poser ses affaires, décompresser
+19h30 - 20h00: Dîner en famille
+20h00 - 20h30: Vaisselle
+20h30 - 21h00: Se rendre à Sierre
+21h00 - 23h00: Répétition avec son groupe de musique ""The Blues Warriors""","FALSE ALIBI
+6:55 p.m. - 7:05 p.m.: Coming home, Cascades d’Eden 2
+7:10 p.m. - 7:30 p.m.: Put down your things, unwind
+7:30 p.m. - 8:00 p.m.: Family dinner
+8:00 p.m. - 8:30 p.m.: Dishes
+8:30 p.m. - 9:00 p.m.: Go to Sierre
+9:00 p.m. - 11:00 p.m.: Rehearsal with his music group “The Blues Warriors”
+
+TRUE ALIBI
+6:45 p.m. - 6:55 p.m.: Left work, went to Moubra
+7:00 p.m. - 7:05 p.m.: Meeting with Jean-Luc and purchase of cannabis
+7:05 p.m. - 7:10 p.m.: Go home
+7:10 p.m. - 7:30 p.m.: Put down your things, unwind
+7:30 p.m. - 8:00 p.m.: Family dinner
+8:00 p.m. - 8:30 p.m.: Dishes
+8:30 p.m. - 9:00 p.m.: Go to Sierre
+9:00 p.m. - 11:00 p.m.: Rehearsal with his music group “The Blues Warriors”",,MENTEUR - Consommateur,
+59,photo/gee_me_055.jpg,Amanda,Berclaz,Randogne,MDC,F,34,"Ebéniste + Clarinettiste à l'écho des bois, Crans-Montana","Cabinetmaker + Clarinetist at l’écho des bois, Crans-Montana","18h00 - 21h00: AG, Echo des Bois Crans Montana","6:00 p.m. - 9:00 p.m.: AGM, Echo des Bois Crans Montana",,,
+60,photo/gee_me_016.jpg,Patrick,Berclaz,Randogne,Le Centre,M,36,Chômage,Unemployment,18h00 - 22h00: Jouer à Halo sur Xbox,6:00 p.m. - 10:00 p.m.: Play Halo on Xbox,,,
